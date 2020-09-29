@@ -1,0 +1,7 @@
+-----------------------前端
+#运行项目
+i: & cd I:\work\project\node.js\sharp-im\ & cnpm run dev（项目创建成功，在浏览器中输入小黑窗给出的网址即可打开所创建项目的网页）
+-----------------------后台服务
+I: & cd I:\work\project\node.js\sharp-im & npm i
+node I:\work\project\node.js\sharp-im\server\index.js
+I: & cd I:\work\project\node.js\sharp-im\server & supervisor index.js

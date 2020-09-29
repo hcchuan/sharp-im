@@ -1,0 +1,5 @@
+----原github项目地址：https://github.com/javanf/web-im
+
+----其他参考github项目地址：
+https://github.com/skylfx/im-sky-master
+https://github.com/jrief/django-websocket-redis
